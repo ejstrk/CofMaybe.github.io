@@ -1,0 +1,18 @@
+<html> <head> <title> image </title> </head>
+<style>
+body {
+	background-image:'cafe.jpg';
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size:cover;
+}
+</style>
+
+<body background= caje.jpg>
+<img src= header.jpg>
+
+<h1 font color="brown", align="center"> Coffee, Maybe? </h1>
+
+<img src= CM.jpg>
+</body>
+</html> 
